@@ -1,9 +1,9 @@
 {
-    "name": "graychen/yii2-gii-rest",
+    "name": "rarinugraha/yii2-gii-rest",
     "description": "This is a resutful API creator for yii2",
     "type": "library",
     "require": {
-        "yiisoft/yii2": "2.0.15.1",
+        "yiisoft/yii2": ">2.0.15.1",
         "yiisoft/yii2-gii": "^2.0"
     },
     "require-dev": {
